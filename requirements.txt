@@ -1,0 +1,11 @@
+pandas
+jupyterlab
+matplotlib
+scikit-learn
+mlflow
+feature_engine
+xgboost
+yellowbrick
+hyperopt
+shap
+dtreeviz[xgboost]
